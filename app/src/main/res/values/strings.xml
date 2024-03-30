@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Healthcare</string>
+    <string name="_24_7_healthcare">24*7 Healthcare</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register_for_new_user">Register For New User</string>
+    <string name="loginUser">Login</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
